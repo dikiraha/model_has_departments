@@ -1,0 +1,18 @@
+{
+    "name": "diki/model_has_departments",
+    "description": "Relationship users and departments",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Diki\\ModelHasDepartments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dikiraha",
+            "email": "kiiinugraha123@gmail.com"
+        }
+    ],
+    "require": {}
+}
